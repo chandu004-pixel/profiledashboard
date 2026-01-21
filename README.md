@@ -7,6 +7,7 @@
 [![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://greensock.com/gsap/)
 
 NexusBoard is a high-performance, full-stack task management ecosystem designed with **Hexagonal Architecture**. Built as a premium solution for productivity, it combines enterprise-grade patterns with a stunning, glassmorphic UI.
+LIVE LINK: (https://profiledashboard-liart.vercel.app/login)
 
 ---
 
