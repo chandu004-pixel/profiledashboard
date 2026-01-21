@@ -10,7 +10,6 @@ dist-ssr/
 .env.*.local
 
 # IDEs and Editors
-.vscode/
 .idea/
 *.swp
 *.swo
