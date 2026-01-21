@@ -1,4 +1,4 @@
-# 🌌 NexusBoard – Scalable Task Management Dashboard
+#  NexusBoard – Scalable Task Management Dashboard
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
@@ -11,36 +11,36 @@ LIVE LINK: (https://profiledashboard-liart.vercel.app/login)
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🔐 Secure Authentication
+###  Secure Authentication
 - **JWT-Powered**: Stateless authentication for scalable sessions.
 - **Cryptographic Hashing**: User passwords secured via `bcrypt` with high salt rounds.
 - **Route Guardians**: Sophisticated `PublicRoute` and `ProtectedRoute` wrappers to manage access intent.
 - **Automated Session Cleanup**: Centralized interceptors that flush local state on token expiration.
 
-### 📊 Intelligence Dashboard
+###  Intelligence Dashboard
 - **Dynamic Stats**: Real-time calculation of "Total Tasks", "Completion Rate", and "Productivity Indices" directly from the database.
 - **Live Search**: High-speed client-side filtering and full-text search across your task workspace.
 - **Visual Feedback**: Success/Error states integrated with GSAP to provide a "felt" user experience.
 
-### 📝 Task Ecosystem (CRUD)
+###  Task Ecosystem (CRUD)
 - **Fluid Task Creation**: Rapid entry with auto-refreshing dashboard metrics.
 - **Status Lifecycle**: Toggle between 'Pending' and 'Completed' with instant UI synchronization.
 - **Modern Interactions**: Edit and delete tasks with smooth Framer Motion transitions.
 
-### 🎨 Premium UI/UX
+###  Premium UI/UX
 - **Aesthetic**: Deep slate dark mode with glassmorphic cards and mesh gradients.
 - **Motion Design**: Entrance animations and micro-interactions powered by GSAP.
 - **Responsive Core**: Custom-built mobile sidebar and adaptive grid layouts.
 
 ---
 
-## 🧠 Architectural Philosophy: Hexagonal (Ports & Adapters)
+##  Architectural Philosophy: Hexagonal (Ports & Adapters)
 
 To ensure this project is "future-proof", I implemented **Hexagonal Architecture** on both the Frontend and Backend. This separates business rules from technology choices.
 
-### 🧱 Folder Structure (Enterprise Ready)
+###  Folder Structure (Enterprise Ready)
 
 #### **Backend Structure**
 ```text
@@ -78,15 +78,15 @@ frontend/src/
 
 ---
 
-## 🧪 Quick Start (Local Setup)
+##  Quick Start (Local Setup)
 
-### 1️⃣ Clone and Install
+###  Clone and Install
 ```bash
 git clone https://github.com/your-username/nexusboard.git
 cd nexusboard
 ```
 
-### 2️⃣ Backend Configuration
+###  Backend Configuration
 ```bash
 cd backend
 npm install
@@ -99,7 +99,7 @@ echo "JWT_SECRET=your_secure_secret_key" >> .env
 npm run dev
 ```
 
-### 3️⃣ Frontend Configuration
+###  Frontend Configuration
 ```bash
 cd ../frontend
 npm install
@@ -109,7 +109,7 @@ Accessible at: `http://localhost:5174`
 
 ---
 
-## 🔑 API Reference
+##  API Reference
 
 | Endpoint | Method | Description | Auth |
 | :--- | :--- | :--- | :--- |
@@ -122,7 +122,7 @@ Accessible at: `http://localhost:5174`
 
 ---
 
-## 🌍 Real-World Impact & Vision
+##  Real-World Impact & Vision
 
 1. **Personal Mastery**: Reduces cognitive load by centralizing scattered goals into a single "Command Center."
 2. **Academic Precision**: Helps students map deadlines to subjects, ensuring examination readiness.
@@ -131,7 +131,7 @@ Accessible at: `http://localhost:5174`
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Chandril Das**  
 *Frontend / Full-Stack Developer*  
@@ -139,5 +139,5 @@ Accessible at: `http://localhost:5174`
 
 ---
 
-> This project was developed as a high-fidelity demonstration of clean code, scalable architecture, and visual excellence. ✅
+> This project was developed as a high-fidelity demonstration of clean code, scalable architecture, and visual excellence. 
 # profiledashboard
